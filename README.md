@@ -17,7 +17,7 @@ Skills are on-demand - they only load into context when you trigger them. MCP se
 ## Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/dev-browser-skill-installer/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/umsurething/dev-browser-skill-installer/main/install.sh | bash
 ```
 
 Or manually:
